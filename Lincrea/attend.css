@@ -1,0 +1,11 @@
+body { font-family: trebuchet ms,helvetica,sans-serif;}
+table#mw {border:solid thin black;border-collapse:collapse;}
+table#mw td {border:solid thin black;}
+table#mw th {width:2em;border:solid thin black;}
+a:link {text-decoration:none;}
+.r {text-align:right}
+.s {font-size:smaller;}
+h1, h2{font-size:medium;}
+#weekGrid {float:right;border-collapse:collapse;}
+table#weekGrid td {border:solid thin black;}
+

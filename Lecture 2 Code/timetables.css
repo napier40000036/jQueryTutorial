@@ -1,0 +1,24 @@
+table{
+	border-collapse:collapse;
+}
+td{
+	border:solid black thin;
+	width:55pt;
+	font-size:10pt;
+	padding:5pt;
+}
+th{
+	border:solid black thin;
+	padding:5pt;
+}
+#key td{
+	width:inherit;
+	font-size:inherit;
+}
+tr.times th{
+	background-color:gray;
+	color:white;
+}
+div.room { text-align:right; }
+td div+div {font-weight:bold;}
+td div+div+div {font-weight:normal;}
